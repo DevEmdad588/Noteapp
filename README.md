@@ -21,7 +21,7 @@ This simple Android project demonstrates how to use a ListView to display a set 
 3. **ListView:** The ListView is populated with the data using the adapter.
 4. **Display:** The app displays the list of notes on the screen.
 
-## Code Overview* 
+## Code Overview 
 * **`MainActivity.kt`:** Contains the main logic for creating the data, setting up the adapter, and displaying the ListView.
 * **`Note.kt`:** Represents a single note item with a title and timestamp.
 * **`NoteAdapter.kt`:** A custom adapter that handles the display of note items in the ListView.
